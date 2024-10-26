@@ -1,6 +1,10 @@
 # bmi_calculate
 
-A new Flutter project.
+bmi ss added
+
+![screenshot](assets/images/img.png)
+![screenshot](assets/images/img_1.png)
+![screenshot](assets/images/img_2.png)
 
 ## Getting Started
 
